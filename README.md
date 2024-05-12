@@ -4,3 +4,5 @@ This project presents a solution for deciphering chest x-rays to identify viral 
 
 The system will "learn and analyze" many thousands of x-rays from a pre-existing database of chest x-rays of healthy and sick people (Training Set).
 Using the Convolutional Neural Network (CNN) algorithm and Transfer Learning (TL) we will know how to classify new x-rays that the algorithm encounters (Test Set) and determine whether there is pneumonia in the photo.
+
+The project was written and done on the Google Colab platform.
